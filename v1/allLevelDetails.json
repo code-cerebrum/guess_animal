@@ -1,6 +1,15 @@
 [
     {"name": "Mammals 1", "lvls": 20, "cost": 0, "star": 0, "cover": 0},
     {"name": "Birds 1", "lvls": 20, "cost": 0, "star": 0, "cover": 0},
+    {"name": "Reptiles", "lvls": 18, "cost": 0, "star": 0, "cover": 0},
+    {"name": "Aquatics 1", "lvls": 19, "cost": 0, "star": 0, "cover": 0},
+    {"name": "Farms", "lvls": 16, "cost": 0, "star": 0, "cover": 0},
+    {"name": "Pets", "lvls": 11, "cost": 0, "star": 0, "cover": 0},
+    {"name": "Insects", "lvls": 19, "cost": 0, "star": 0, "cover": 0},
+    {"name": "Mythical", "lvls": 16, "cost": 0, "star": 0, "cover": 0},
+    {"name": "Movie Animals 1", "lvls": 18, "cost": 0, "star": 0, "cover": 0},
+    {"name": "Movie Animals 2", "lvls": 18, "cost": 0, "star": 0, "cover": 0},
     {"name": "Mammals 2", "lvls": 20, "cost": 0, "star": 0, "cover": 0},
-    {"name": "Birds 2", "lvls": 20, "cost": 0, "star": 0, "cover": 0}
+    {"name": "Birds 2", "lvls": 20, "cost": 0, "star": 0, "cover": 0},
+    {"name": "Aquatics 2", "lvls": 14, "cost": 0, "star": 0, "cover": 0}
 ]
